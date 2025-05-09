@@ -1,0 +1,8 @@
+# Ignore build output and VS-specific files
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+*.log
